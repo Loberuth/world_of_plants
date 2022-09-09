@@ -1,0 +1,6 @@
+pillow
+requests
+paho-mqtt
+sqlalchemy
+matplotlib
+numpy
