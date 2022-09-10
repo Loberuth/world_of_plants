@@ -1,6 +1,6 @@
 # World of plants
 
-### This is a guide about this application.
+### This is a guide for this application.
 
 When you download and unpack a .rar file, open the project in any IDE suitable for Python programming language (I used PyCharm, but other IDE-s should do just fine).
 
