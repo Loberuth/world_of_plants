@@ -2,6 +2,12 @@
 
 ### This is a guide for this application.
 
+## Technologies/tools used: 
+     Python
+     Tkinter (GUI module)
+     SQLite database
+     Libraries: pillow, matplotlib, numpy
+
 When you download and unpack a .rar file, open the project in any IDE suitable for Python programming language (I used PyCharm, but other IDE-s should do just fine).
 
 ## **Login page**
